@@ -10,13 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="beae4942-0296-4396-8797-b75a135116c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/front-end-client-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/site/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/site/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/site/add.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,33 +70,57 @@
       <updated>1605555492056</updated>
       <workItem from="1605555493270" duration="6307000" />
       <workItem from="1605728315019" duration="534000" />
-      <workItem from="1605737830749" duration="2930000" />
+      <workItem from="1605737830749" duration="3317000" />
     </task>
+    <task id="LOCAL-00001" summary="Front end working with GET all and POST">
+      <created>1605753822574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605753822574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Front end working with GET all and POST" />
+    <option name="LAST_COMMIT_MESSAGE" value="Front end working with GET all and POST" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1605725564514">
-      <screen x="-1920" y="-57" width="1920" height="1057" />
+    <state x="-1449" y="32" key="CommitChangelistDialog2" timestamp="1605753822378">
+      <screen x="-1920" y="-80" width="1920" height="1080" />
     </state>
+    <state x="-1449" y="32" key="CommitChangelistDialog2/0.0.1440.900/-1920.-80.1920.1080@-1920.-80.1920.1080" timestamp="1605753822378" />
+    <state width="1878" height="112" key="GridCell.Tab.0.bottom" timestamp="1605753794498">
+      <screen x="-1920" y="-80" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="112" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-80.1920.1080@-1920.-80.1920.1080" timestamp="1605753794498" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605725564514" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605564994316" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1605725564513">
-      <screen x="-1920" y="-57" width="1920" height="1057" />
+    <state width="1878" height="112" key="GridCell.Tab.0.center" timestamp="1605753794496">
+      <screen x="-1920" y="-80" width="1920" height="1080" />
     </state>
+    <state width="1878" height="112" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-80.1920.1080@-1920.-80.1920.1080" timestamp="1605753794496" />
     <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605725564513" />
     <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605564994315" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1605725564512">
-      <screen x="-1920" y="-57" width="1920" height="1057" />
+    <state width="1878" height="112" key="GridCell.Tab.0.left" timestamp="1605753794495">
+      <screen x="-1920" y="-80" width="1920" height="1080" />
     </state>
+    <state width="1878" height="112" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-80.1920.1080@-1920.-80.1920.1080" timestamp="1605753794495" />
     <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605725564512" />
     <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605564994315" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1605725564514">
-      <screen x="-1920" y="-57" width="1920" height="1057" />
+    <state width="1878" height="112" key="GridCell.Tab.0.right" timestamp="1605753794497">
+      <screen x="-1920" y="-80" width="1920" height="1080" />
     </state>
+    <state width="1878" height="112" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-80.1920.1080@-1920.-80.1920.1080" timestamp="1605753794497" />
     <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605725564514" />
     <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605564994316" />
+    <state x="-1360" y="200" key="Vcs.Push.Dialog.v2" timestamp="1605753826236">
+      <screen x="-1920" y="-80" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="200" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-80.1920.1080@-1920.-80.1920.1080" timestamp="1605753826236" />
   </component>
 </project>
